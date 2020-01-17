@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactNumberTransformer/static/css/main.17fa1ec3.chunk.css",
+    "main.js": "/ReactNumberTransformer/static/js/main.7dccbda6.chunk.js",
+    "main.js.map": "/ReactNumberTransformer/static/js/main.7dccbda6.chunk.js.map",
+    "runtime-main.js": "/ReactNumberTransformer/static/js/runtime-main.6bf75031.js",
+    "runtime-main.js.map": "/ReactNumberTransformer/static/js/runtime-main.6bf75031.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/ReactNumberTransformer/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.d4dc5c3d.chunk.js": "/ReactNumberTransformer/static/js/2.d4dc5c3d.chunk.js",
+    "static/js/2.d4dc5c3d.chunk.js.map": "/ReactNumberTransformer/static/js/2.d4dc5c3d.chunk.js.map",
+    "index.html": "/ReactNumberTransformer/index.html",
+    "precache-manifest.e69ad38de646f167aba256b8c2d9e111.js": "/ReactNumberTransformer/precache-manifest.e69ad38de646f167aba256b8c2d9e111.js",
+    "service-worker.js": "/ReactNumberTransformer/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/ReactNumberTransformer/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.17fa1ec3.chunk.css.map": "/ReactNumberTransformer/static/css/main.17fa1ec3.chunk.css.map",
+    "static/js/2.d4dc5c3d.chunk.js.LICENSE": "/ReactNumberTransformer/static/js/2.d4dc5c3d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bf75031.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.d4dc5c3d.chunk.js",
+    "static/css/main.17fa1ec3.chunk.css",
+    "static/js/main.7dccbda6.chunk.js"
+  ]
+}
